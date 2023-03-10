@@ -1,0 +1,15 @@
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\bin\Debug\net6.0\GDHImplement.exe
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\bin\Debug\net6.0\GDHImplement.deps.json
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\bin\Debug\net6.0\GDHImplement.runtimeconfig.json
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\bin\Debug\net6.0\GDHImplement.dll
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\bin\Debug\net6.0\GDHImplement.pdb
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.AssemblyInfo.cs
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.dll
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\refint\GDHImplement.dll
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.pdb
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\GDHImplement.genruntimeconfig.cache
+C:\Users\Max\Documents\OSU\YearTwo\learn_csharp\GDHImplement\GDHImplement\obj\Debug\net6.0\ref\GDHImplement.dll
