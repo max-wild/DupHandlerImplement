@@ -22,11 +22,11 @@ namespace DuplicateHandlerNS
 
         /// <summary>
         /// This method accepts an ICollection and returns an ICollection instance without
-        /// duplicates in the original list.
+        /// duplicates based on the elements that were passed in.
         /// </summary
         /// 
         /// <param name="checkCollection">The ICollection which will be checked for duplicate elements.</param>
-        /// <returns>An instance of the passed-in ICollection without any duplicates.</returns>
+        /// <returns>A new instance of the passed-in ICollection without any duplicates.</returns>
         public ICollection<T> RemoveDuplicates(ICollection<T> checkCollection)
         {
             return checkCollection.Distinct().ToList();
